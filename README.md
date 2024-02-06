@@ -5,7 +5,7 @@ dlt is an open-source library that you can add to your Python scripts to load da
 
 Premise:
 
-For this example, we created a simple http api that returns json "page by page",  1000 records per page.
+For this example,  a simple http api is created that returns json "page by page",  1000 records per page.
 
 It accepts a parameter called `page`, representing the page number.
 If we request a larger page number than there is data, we get an empty response.
